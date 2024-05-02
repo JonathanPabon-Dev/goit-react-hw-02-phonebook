@@ -12,7 +12,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #e7ecf2;
+  background: #2f344d;
+  color: #f2f2f2;
   display: flex;
   align-items: center;
   justify-content: center;
